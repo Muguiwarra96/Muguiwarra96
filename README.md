@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muguiwarra96 "ABBOUNE Nouh"
+- 👋 Hi, I’m @Muguiwarra96
 - 👀 I’m interested in AI and DL
 - 🌱 I’m currently learning Computer Vision
 
